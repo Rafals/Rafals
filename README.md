@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Rafał 👋
 
-<!--
-**Rafals/Rafals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Java backend developer | Clean Code enthusiast | Spring Boot lover    
+💻 I build pragmatic, solid backend systems with zero overengineering.  
+📚 Currently working on Java desktop and API projects.
 
-Here are some ideas to get you started:
+### 🔧 Technologies:
+- Java, Spring Boot, REST APIs, Hibernate
+- Git, GitHub, Maven
+- Swing (GUI), SQL, JavaFX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Projekty
+- 🔹 [Mkart](https://github.com/Rafals/Mkart) – desktop-app to reserve gokarts, still in progress
+- 🔹 [Minutnik](https://github.com/Rafals/Minutnik) – simple timer in Java with GUI.
+- 🔹 [GitHubApi](https://github.com/Rafals/GitHubApi) – client to GitHub API.
+- 🔹 [CODE_GYM](https://github.com/Rafals/CODE_GYM) – my exercises and grow in Java.
