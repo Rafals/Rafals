@@ -9,7 +9,7 @@
 - Git, GitHub, Maven
 - Swing (GUI), SQL, JavaFX
 
-### ⚡ Projekty
+### ⚡ Projects:
 - 🔹 [Mkart](https://github.com/Rafals/Mkart) – desktop-app to reserve gokarts, still in progress
 - 🔹 [Minutnik](https://github.com/Rafals/Minutnik) – simple timer in Java with GUI.
 - 🔹 [GitHubApi](https://github.com/Rafals/GitHubApi) – client to GitHub API.
